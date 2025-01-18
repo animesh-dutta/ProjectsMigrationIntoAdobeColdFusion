@@ -8,5 +8,3 @@ and Adobe ColdFusion will also rule all over the world
 and number of projects will increase.
 Adobe ColdFusion and Lucee will rule all over the world and that is ambition.
 Thanks a lot. 
-
-
