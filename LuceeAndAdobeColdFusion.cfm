@@ -10,4 +10,4 @@ Adobe ColdFusion and
 Lucee will rule 
 all over the world 
 and that is ambition.
-Thanks a lot.  
+Thanks a lot.   
