@@ -6,7 +6,7 @@ of the projects.United Kingdom is a small country but it has ruled most
 of the countries of the world.It is my pleasure that Lucee 
 and Adobe ColdFusion,Java,PHP,Dotnet and other technologies will also rule all over the world
 and number of projects will increase.   
-Adobe ColdFusion and 
+Adobe ColdFusion and  
 Lucee will rule 
 all over the world 
 and that is ambition. 
